@@ -29,6 +29,8 @@ valor da variável com resultado final no console
 ====================================================
 */
 
+let aluno = "Bianca";
+console.log("Olá " + aluno + ", seja bem vinda! ");
 /*
 2 - João comecou a trabalhar como desenvolvedor mas precisa de comprar um
 computador melhor. Achou um no preço de R$4.500,00 que é o valor que pode gastar
