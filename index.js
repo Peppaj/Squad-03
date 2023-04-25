@@ -49,6 +49,11 @@ Resultado do preço final no console.
 ====================================================
 */
 
+let valor = 4.500
+let taxa = 0.20
+let resultado = valor - (valor * taxa)
+console.log(resultado)
+
 /*
 3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o 
 usuário e a senha para que seu colega de profissão consiga executar em seu computador.
